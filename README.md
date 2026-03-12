@@ -12,6 +12,8 @@ Student Data Analysis using Python, Pandas, Matplotlib, and Seaborn with data vi
 
 ## Student Performance
 ![Marks](images/student_marks_bar.png)
+
+
 student-data-analysis/
 │
 ├── data/
